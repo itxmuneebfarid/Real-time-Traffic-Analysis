@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "real-time Traffic analysis", "real-time Traffic analysis.vcxproj", "{EDACF085-A732-418A-9EE0-5E731D64216C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EDACF085-A732-418A-9EE0-5E731D64216C}.Debug|x64.ActiveCfg = Debug|x64
+		{EDACF085-A732-418A-9EE0-5E731D64216C}.Debug|x64.Build.0 = Debug|x64
+		{EDACF085-A732-418A-9EE0-5E731D64216C}.Release|x64.ActiveCfg = Release|x64
+		{EDACF085-A732-418A-9EE0-5E731D64216C}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {345B4354-E183-41F5-9F07-DB6CC38D0347}
+	EndGlobalSection
+EndGlobal
