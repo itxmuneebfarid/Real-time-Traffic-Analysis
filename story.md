@@ -1,13 +1,14 @@
-📘 Project Story
+# real-time-traffic analysis
+# Project Story
 
 In the busy digital city of London, traffic changes every second.
 To solve the constant road chaos, Muneeb and Dawood created:
 
-🚗 Real-Time Traffic Analysis System
+# Real-Time Traffic Analysis System
 
 A system designed to deliver fast, smart, and accurate traffic insights.
 
-👨‍💻 Graph Guru — Muneeb
+# Graph Guru — Muneeb
 
 Muneeb represented the entire city using a Graph Data Structure:
 
@@ -27,7 +28,7 @@ Map real-time traffic flow
 
 The graph ensured smooth and efficient navigation.
 
-🛑 Stack Sentinel — Dawood
+# Stack Sentinel — Dawood
 
 Dawood handled rapid traffic alerts using a Stack:
 
@@ -61,7 +62,7 @@ Smart path suggestions
 
 Automated traffic summaries
 
-🌆 Final Output
+# Final Output
 
 The Real-Time Traffic Analysis System provided:
 
@@ -72,8 +73,7 @@ Live congestion monitoring
 Smart decision support
 
 Efficient city-wide movement
-
-✔️ Conclusion
+#  Conclusion
 
 With Graph for navigation and Stack for alerts,
 Muneeb and Dawood built a smart, reliable, DS-powered real-time traffic analysis system that helps cities move smarter.
